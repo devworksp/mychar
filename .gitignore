@@ -1,0 +1,10 @@
+# Ficheros de registro o depuración
+*.log
+
+# Entornos virtuales y caché de Python
+.venv/
+env/
+__pycache__/
+
+# Ficheros de base de datos local o volátiles
+*.sqlite3
