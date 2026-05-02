@@ -2,6 +2,7 @@
 # Script: mychar.py
 # Descripción: Aplicación de gestión de cadenas y suite de pruebas.
 # Autor: John Omar Peña Cumpa
+# Version: 1
 # ----------------------------------------------------------------
 
 import unittest
