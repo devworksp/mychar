@@ -8,3 +8,6 @@ __pycache__/
 
 # Ficheros de base de datos local o volátiles
 *.sqlite3
+
+# Ficheros de sencibles con credenciales de acceso
+*.env
